@@ -19,11 +19,11 @@ USE CASES:
 •	Vote poll
 
 PROGRAMMING LANGUAGES AND TOOLS:
-• Java
-•	Spring 
-• Html and Css
-•	JPA and Hibernate 
-•	Maven
-•	Angular
-• Javascript and Typescript
-• SQL
+Java
+Spring 
+Html and Css
+JPA and Hibernate 
+Maven
+Angular
+Javascript and Typescript
+SQL
